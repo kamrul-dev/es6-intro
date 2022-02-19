@@ -13,7 +13,6 @@ function add(num1, num2 = 0){
 const result = add(12);
 console.log(result);
 
-
 function fullName(first, last = "khan"){
     const name = first + ' ' + last;
     return name;
